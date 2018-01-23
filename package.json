@@ -1,0 +1,26 @@
+{
+  "name": "contactlistserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadMDSA/ContactListServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammadMDSA/ContactListServer/issues"
+  },
+  "homepage": "https://github.com/MohammadMDSA/ContactListServer#readme",
+  "dependencies": {
+    "@bakjs/auth": "^3.0.3",
+    "@bakjs/mongo": "^2.0.4",
+    "cross-env": "^5.1.3",
+    "crossenv": "^0.0.2-security",
+    "bak": "^3.0.5"
+  }
+}
