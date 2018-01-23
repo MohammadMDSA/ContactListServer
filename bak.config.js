@@ -15,7 +15,7 @@ module.exports = {
 	mongo: {
 		connections: {
 			default: {
-				uri: 'mongodb://localhost/test'
+				uri: 'mongodb://localhost/contacts'
 			}
 		}
 	}
